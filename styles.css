@@ -1,2 +1,13 @@
-
+.abc{
+	text-align:center;
+	border:dotted;
+}
+.image{
+	border:1px solid black;
+}
+.list{
+	border:2px solid black;
+	background-color:black;
+	color:white;
+}
 /* Your CSS Code here. */
